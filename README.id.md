@@ -12,10 +12,13 @@
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-Unduh-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Unduh di App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-Unduh-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-blue" />
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Harga-Gratis-success" />
   <img src="https://img.shields.io/badge/Privasi-Data%20Tidak%20Dikumpulkan-brightgreen" />
   <img src="https://img.shields.io/badge/Kategori-Game%20%2F%20Puzzle-orange" />

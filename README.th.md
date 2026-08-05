@@ -12,6 +12,9 @@
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="ดาวน์โหลดบน App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-ดาวน์โหลด-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 <p align="center">

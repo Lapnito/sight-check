@@ -12,10 +12,13 @@
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-%C4%B0ndir-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store'dan indir" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-İndir-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-blue" />
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Fiyat-%C3%9Ccretsiz-success" />
   <img src="https://img.shields.io/badge/Gizlilik-Veri%20Toplanm%C4%B1yor-brightgreen" />
   <img src="https://img.shields.io/badge/Kategori-Oyun%20%2F%20Bulmaca-orange" />
