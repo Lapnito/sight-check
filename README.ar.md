@@ -161,7 +161,7 @@
 
 - **الدعم:** <a href="https://github.com/Lapnito/sight-check/issues">github.com/Lapnito/sight-check/issues</a>
 - **البريد الإلكتروني:** tom@lapnito.cz
-- **المزيد من التطبيقات:** <a href="https://apps.apple.com/us/developer/id1588955203">صفحة المطوّر على App Store</a> · <a href="https://play.google.com/store/apps/dev?id=8923575656207320763">صفحة المطوّر على Google Play</a>
+- **المزيد من التطبيقات:** <a href="https://apps.apple.com/us/developer/id1577358577">صفحة المطوّر على App Store</a> · <a href="https://play.google.com/store/apps/dev?id=8923575656207320763">صفحة المطوّر على Google Play</a>
 
 ---
 

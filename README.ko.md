@@ -158,7 +158,7 @@
 
 - **지원:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **이메일:** tom@lapnito.cz
-- **더 많은 앱:** [App Store 개발자 페이지](https://apps.apple.com/us/developer/id1588955203) · [Google Play 개발자 페이지](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **더 많은 앱:** [App Store 개발자 페이지](https://apps.apple.com/us/developer/id1577358577) · [Google Play 개발자 페이지](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 

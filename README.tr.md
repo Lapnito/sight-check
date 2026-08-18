@@ -159,7 +159,7 @@ Oyunu eğlenceli ve adil kılan herhangi bir mesafe — önemli olan tutarlılı
 
 - **Destek:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **E-posta:** tom@lapnito.cz
-- **Diğer uygulamalar:** [App Store geliştirici sayfası](https://apps.apple.com/us/developer/id1588955203) · [Google Play geliştirici sayfası](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **Diğer uygulamalar:** [App Store geliştirici sayfası](https://apps.apple.com/us/developer/id1577358577) · [Google Play geliştirici sayfası](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 

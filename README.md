@@ -209,7 +209,7 @@ Currently iPhone only.
 
 - **Support:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **Email:** tom@lapnito.cz
-- **More apps:** [App Store developer page](https://apps.apple.com/us/developer/id1588955203) · [Google Play developer page](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **More apps:** [App Store developer page](https://apps.apple.com/us/developer/id1577358577) · [Google Play developer page](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 <script type="application/ld+json">
 {

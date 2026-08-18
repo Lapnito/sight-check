@@ -159,7 +159,7 @@
 
 - **支持：**[github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **邮箱：**tom@lapnito.cz
-- **更多应用：**[App Store 开发者主页](https://apps.apple.com/us/developer/id1588955203) · [Google Play 开发者主页](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **更多应用：**[App Store 开发者主页](https://apps.apple.com/us/developer/id1577358577) · [Google Play 开发者主页](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 

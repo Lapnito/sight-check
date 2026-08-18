@@ -158,7 +158,7 @@ Voorlopig alleen voor iPhone.
 
 - **Support:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **E-mail:** tom@lapnito.cz
-- **Meer apps:** [App Store-ontwikkelaarspagina](https://apps.apple.com/us/developer/id1588955203) · [Google Play-ontwikkelaarspagina](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **Meer apps:** [App Store-ontwikkelaarspagina](https://apps.apple.com/us/developer/id1577358577) · [Google Play-ontwikkelaarspagina](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 

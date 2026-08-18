@@ -158,7 +158,7 @@ Al momento solo per iPhone.
 
 - **Supporto:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **E-mail:** tom@lapnito.cz
-- **Altre app:** [Pagina sviluppatore su App Store](https://apps.apple.com/us/developer/id1588955203) · [Pagina sviluppatore su Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **Altre app:** [Pagina sviluppatore su App Store](https://apps.apple.com/us/developer/id1577358577) · [Pagina sviluppatore su Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 

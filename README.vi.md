@@ -158,7 +158,7 @@ Hiện tại chỉ có trên iPhone.
 
 - **Hỗ trợ:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **Email:** tom@lapnito.cz
-- **Ứng dụng khác:** [Trang nhà phát triển trên App Store](https://apps.apple.com/us/developer/id1588955203) · [Trang nhà phát triển trên Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **Ứng dụng khác:** [Trang nhà phát triển trên App Store](https://apps.apple.com/us/developer/id1577358577) · [Trang nhà phát triển trên Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 

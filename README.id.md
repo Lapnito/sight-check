@@ -158,7 +158,7 @@ Saat ini khusus iPhone.
 
 - **Dukungan:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 - **Email:** tom@lapnito.cz
-- **Aplikasi lainnya:** [Halaman pengembang App Store](https://apps.apple.com/us/developer/id1588955203) · [Halaman pengembang Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
+- **Aplikasi lainnya:** [Halaman pengembang App Store](https://apps.apple.com/us/developer/id1577358577) · [Halaman pengembang Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 
