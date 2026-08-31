@@ -160,6 +160,30 @@ Hiện tại chỉ có trên iPhone.
 - **Email:** tom@lapnito.cz
 - **Ứng dụng khác:** [Trang nhà phát triển trên App Store](https://apps.apple.com/us/developer/id1577358577) · [Trang nhà phát triển trên Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Sight Check: Eye Chart Game",
+  "inLanguage": "vi",
+  "description": "Sight Check: Eye Chart Game là trò chơi giải trí miễn phí lấy cảm hứng từ bảng chữ cái đo thị lực kinh điển ở phòng khám mắt. Hãy đứng xa màn hình, đọc to từng hàng chữ nhỏ dần, lưu điểm số và phá kỷ lục của chính mình. Chuyền điện thoại cho gia đình và bạn bè để xem ai đọc được hàng nhỏ nhất từ đầu bên kia căn phòng. Miễn phí mãi mãi, không quảng cáo, không mua trong ứng dụng, không cần tài khoản và hoàn toàn ngoại tuyến — kết quả chỉ nằm trên máy. Chỉ để giải trí: đây không phải thiết bị y tế và không thay thế khám mắt chuyên nghiệp.",
+  "operatingSystem": "iOS, Android",
+  "applicationCategory": "GameApplication",
+  "applicationSubCategory": "Puzzle",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "email": "tom@lapnito.cz"
+  }
+}
+</script>
+
 ---
 
 <p align="center">Được tạo ra với ❤️ tại Cộng hòa Séc bởi <b>lapnito.cz s.r.o.</b></p>

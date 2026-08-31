@@ -161,6 +161,30 @@ Oyunu eğlenceli ve adil kılan herhangi bir mesafe — önemli olan tutarlılı
 - **E-posta:** tom@lapnito.cz
 - **Diğer uygulamalar:** [App Store geliştirici sayfası](https://apps.apple.com/us/developer/id1577358577) · [Google Play geliştirici sayfası](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Sight Check: Eye Chart Game",
+  "inLanguage": "tr",
+  "description": "Sight Check: Eye Chart Game, gözlükçüdeki klasik harf tablolarından esinlenen ücretsiz bir gündelik oyundur. Ekrandan uzaklaşın, giderek küçülen harf satırlarını yüksek sesle okuyun, puanınızı kaydedin ve kişisel rekorunuzu geçin. Telefonu aileye ve arkadaşlara uzatın; odanın öbür ucundan en küçük satırı kimin okuduğunu görün. Sonsuza dek ücretsiz, reklamsız, uygulama içi satın alma yok, hesap yok ve tamamen çevrimdışı — sonuçlar cihazdan çıkmaz. Yalnızca eğlence amaçlıdır: tıbbi cihaz değildir ve profesyonel göz muayenesinin yerini tutmaz.",
+  "operatingSystem": "iOS, Android",
+  "applicationCategory": "GameApplication",
+  "applicationSubCategory": "Puzzle",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "email": "tom@lapnito.cz"
+  }
+}
+</script>
+
 ---
 
 <p align="center">Çekya'da ❤️ ile yapıldı — <b>lapnito.cz s.r.o.</b></p>

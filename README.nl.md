@@ -160,6 +160,30 @@ Voorlopig alleen voor iPhone.
 - **E-mail:** tom@lapnito.cz
 - **Meer apps:** [App Store-ontwikkelaarspagina](https://apps.apple.com/us/developer/id1577358577) · [Google Play-ontwikkelaarspagina](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Sight Check: Eye Chart Game",
+  "inLanguage": "nl",
+  "description": "Sight Check: Eye Chart Game is een gratis casual spel geïnspireerd op de klassieke letterkaarten bij de opticien. Ga ver van je scherm staan, lees rijen steeds kleinere letters hardop voor, bewaar je score en verbeter je persoonlijke record. Geef de telefoon door aan familie en vrienden en ontdek wie de kleinste regel nog leest. Voor altijd gratis, zonder advertenties, zonder in-app-aankopen, zonder account en volledig offline — resultaten blijven op je toestel. Puur vermaak: geen medisch hulpmiddel en geen vervanging van een oogonderzoek.",
+  "operatingSystem": "iOS, Android",
+  "applicationCategory": "GameApplication",
+  "applicationSubCategory": "Puzzle",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "email": "tom@lapnito.cz"
+  }
+}
+</script>
+
 ---
 
 <p align="center">Gemaakt met ❤️ in Tsjechië door <b>lapnito.cz s.r.o.</b></p>

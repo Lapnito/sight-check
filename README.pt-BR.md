@@ -160,6 +160,30 @@ Por enquanto, somente para iPhone.
 - **E-mail:** tom@lapnito.cz
 - **Mais apps:** [Página do desenvolvedor na App Store](https://apps.apple.com/us/developer/id1577358577) · [Página do desenvolvedor no Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Sight Check: Eye Chart Game",
+  "inLanguage": "pt-BR",
+  "description": "Sight Check: Eye Chart Game é um jogo casual gratuito inspirado nas clássicas tabelas de letras do oftalmologista. Afaste-se da tela, leia em voz alta fileiras de letras cada vez menores, salve a pontuação e supere o seu recorde pessoal. Passe o celular para a família e os amigos e descubra quem enxerga a linha mais difícil. Grátis para sempre, sem anúncios, sem compras no app, sem conta e totalmente offline — os resultados ficam no aparelho. Apenas diversão: não é dispositivo médico nem substitui um exame oftalmológico.",
+  "operatingSystem": "iOS, Android",
+  "applicationCategory": "GameApplication",
+  "applicationSubCategory": "Puzzle",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "email": "tom@lapnito.cz"
+  }
+}
+</script>
+
 ---
 
 <p align="center">Feito com ❤️ na República Tcheca por <b>lapnito.cz s.r.o.</b></p>
