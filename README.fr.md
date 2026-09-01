@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="Sight Check: Eye Chart Game" width="120" height="120" />
 </p>
 
-<h1 align="center">Sight Check: Eye Chart Game — Arriverez-vous à lire les plus petites lettres ? Le jeu du tableau de lettres de l'ophtalmo sur iPhone</h1>
+<h1 align="center">Sight Check: Eye Chart Game — Arriverez-vous à lire les plus petites lettres ? Le jeu du tableau de lettres de l'ophtalmo sur iPhone et Android</h1>
 
 <p align="center">
   <b>Un jeu décontracté et gratuit inspiré des tableaux de lettres classiques des opticiens. Reculez de l'écran, lisez à voix haute des lignes de lettres de plus en plus petites, suivez votre score et battez votre record personnel. Défiez vos amis et votre famille. Gratuit pour toujours, sans pub, sans compte, entièrement hors ligne — vos résultats ne quittent jamais votre iPhone.</b>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Plateforme-iOS-blue" />
+  <img src="https://img.shields.io/badge/Plateforme-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Prix-Gratuit-success" />
   <img src="https://img.shields.io/badge/Confidentialit%C3%A9-Aucune%20donn%C3%A9e%20collect%C3%A9e-brightgreen" />
   <img src="https://img.shields.io/badge/Cat%C3%A9gorie-Jeux%20%2F%20Puzzle-orange" />
@@ -56,13 +56,13 @@
 
 ## Qu'est-ce que Sight Check ?
 
-**Sight Check: Eye Chart Game** est un jeu décontracté et gratuit pour iPhone, inspiré du fameux tableau de lettres accroché dans tous les cabinets d'ophtalmologie. Les règles, tout le monde les connaît depuis la salle d'attente : **reculez de l'écran et lisez les lettres à voix haute** — d'abord les grandes lignes confortables, puis des lettres si minuscules qu'elles sèment la zizanie dans la famille.
+**Sight Check: Eye Chart Game** est un jeu décontracté et gratuit pour iPhone et Android, inspiré du fameux tableau de lettres accroché dans tous les cabinets d'ophtalmologie. Les règles, tout le monde les connaît depuis la salle d'attente : **reculez de l'écran et lisez les lettres à voix haute** — d'abord les grandes lignes confortables, puis des lettres si minuscules qu'elles sèment la zizanie dans la famille.
 
-Qui n'a jamais plissé les yeux devant ce tableau en se demandant « est-ce que j'arriverais à lire une ligne de plus ? » Sight Check transforme ce moment en un jeu à emporter partout : à la maison, en soirée, au bureau, sur le canapé. Lisez chaque ligne, progressez vers des lettres toujours plus petites, **enregistrez vos résultats et battez votre record personnel**. Puis passez l'iPhone à un ami, un frère, une grand-mère, et voyez qui lit la plus petite ligne depuis l'autre bout du salon — pour rire, en général, et pour se vanter pendant des années, parfois.
+Qui n'a jamais plissé les yeux devant ce tableau en se demandant « est-ce que j'arriverais à lire une ligne de plus ? » Sight Check transforme ce moment en un jeu à emporter partout : à la maison, en soirée, au bureau, sur le canapé. Lisez chaque ligne, progressez vers des lettres toujours plus petites, **enregistrez vos résultats et battez votre record personnel**. Puis passez le téléphone à un ami, un frère, une grand-mère, et voyez qui lit la plus petite ligne depuis l'autre bout du salon — pour rire, en général, et pour se vanter pendant des années, parfois.
 
 Aucun matériel nécessaire à part votre téléphone. Pas de version d'essai, pas de pièces, pas de « pack premium ».
 
-**iPhone uniquement. Gratuit pour toujours. Sans publicité, sans achats intégrés, sans compte, sans inscription. Entièrement hors ligne — vos scores ne quittent jamais votre téléphone.**
+**Sur iPhone et Android. Gratuit pour toujours. Sans publicité, sans achats intégrés, sans compte, sans inscription. Entièrement hors ligne — vos scores ne quittent jamais votre téléphone.**
 
 ## Quand ouvre-t-on cette appli ?
 
@@ -117,12 +117,15 @@ Complètement. Mode avion, chalet en montagne, parking souterrain — le jeu s'e
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-T%C3%A9l%C3%A9charger-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Télécharger dans l'App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-Télécharger-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 | Plateforme | Disponibilité |
 |------------|----------------|
 | iOS (iPhone) | ✅ [App Store](https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052) |
-| Android | ❌ Non disponible |
+| Android | ✅ [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck) — `cz.lapnito.sightcheck` |
 
 **Assistance :** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 
@@ -150,7 +153,7 @@ Oui — c'est un simple jeu de lecture de lettres, sans pub, sans chat et sans c
 Celle qui rend le jeu amusant et équitable — l'intérêt, ce sont des records personnels cohérents et des duels dans la bonne humeur, pas des distances cliniques calibrées. Choisissez un repère, gardez-le et défendez votre record.
 
 **Sight Check existe-t-il sur Android ?**
-Pour l'instant, uniquement sur iPhone.
+Oui. Sight Check est disponible sur Google Play (`cz.lapnito.sightcheck`) et sur l'App Store pour iPhone.
 
 ## À propos du développeur
 
@@ -175,6 +178,10 @@ Pour l'instant, uniquement sur iPhone.
     "price": "0",
     "priceCurrency": "USD"
   },
+  "downloadUrl": [
+    "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+    "https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck"
+  ],
   "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
   "author": {
     "@type": "Organization",

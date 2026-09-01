@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="Sight Check: Eye Chart Game" width="120" height="120" />
 </p>
 
-<h1 align="center">Sight Check: Eye Chart Game — Kun jij de kleinste letters lezen? Een speels letterkaart-spel voor iPhone</h1>
+<h1 align="center">Sight Check: Eye Chart Game — Kun jij de kleinste letters lezen? Een speels letterkaart-spel voor iPhone en Android</h1>
 
 <p align="center">
   <b>Een gratis, casual spel geïnspireerd op de klassieke letterkaart bij de opticien. Ga een stukje van je scherm af staan, lees rijen steeds kleinere letters hardop voor, houd je score bij en daag vrienden en familie uit. Voor altijd gratis, geen reclame, geen account, volledig offline — je resultaten blijven op je toestel.</b>
@@ -56,13 +56,13 @@
 
 ## Wat is Sight Check?
 
-**Sight Check: Eye Chart Game** is een gratis, casual iPhone-spel geïnspireerd op de klassieke letterkaart die in elke opticienwinkel en oogartsenpraktijk hangt. De regels kent iedereen al: **ga op afstand van het scherm staan en lees de letters hardop voor** — eerst grote, comfortabele rijen, daarna letters die zó klein worden dat er ruzie van komt aan de eettafel.
+**Sight Check: Eye Chart Game** is een gratis, casual spel voor iPhone en Android, geïnspireerd op de klassieke letterkaart die in elke opticienwinkel en oogartsenpraktijk hangt. De regels kent iedereen al: **ga op afstand van het scherm staan en lees de letters hardop voor** — eerst grote, comfortabele rijen, daarna letters die zó klein worden dat er ruzie van komt aan de eettafel.
 
 Iedereen heeft weleens naar zo'n kaart getuurd en gedacht: "zou ik nog één rij verder kunnen?" Sight Check maakt van dat moment een spelletje dat je overal kunt spelen: thuis, op een feestje, op kantoor, op de bank. Lees elke rij, werk je door steeds kleinere letters heen, **sla je resultaten op en verbeter je persoonlijke record**. Geef daarna de telefoon door aan een vriend, broer, zus of opa en oma en kijk wie vanaf de andere kant van de kamer de kleinste rij kan lezen.
 
-Je hebt niets nodig behalve je iPhone. Geen proefversies, geen munten, geen "premium letterpakket".
+Je hebt niets nodig behalve je telefoon. Geen proefversies, geen munten, geen "premium letterpakket".
 
-**Alleen voor iPhone. Voor altijd gratis. Geen reclame, geen in-app-aankopen, geen account. Volledig offline — je scores verlaten je telefoon nooit.**
+**Voor iPhone en Android. Voor altijd gratis. Geen reclame, geen in-app-aankopen, geen account. Volledig offline — je scores verlaten je telefoon nooit.**
 
 ## Wanneer open je deze app eigenlijk?
 
@@ -117,12 +117,15 @@ Nergens heen. Ze staan alleen op je toestel. Geen cloud, geen account, geen anal
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-Downloaden-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download in de App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-Downloaden-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 | Platform | Beschikbaarheid |
 |----------|-----------------|
 | iOS (iPhone) | ✅ [App Store](https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052) |
-| Android | ❌ Niet beschikbaar |
+| Android | ✅ [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck) — `cz.lapnito.sightcheck` |
 
 **Support:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 
@@ -150,7 +153,7 @@ Ja — het is een simpel letterspel zonder reclame, zonder chat en zonder gegeve
 Wat het spel maar leuk en eerlijk maakt — het draait om consistente persoonlijke records en onderlinge lol, niet om klinische afstanden. Kies een plek, houd die aan en verdedig je record.
 
 **Is Sight Check er ook voor Android?**
-Voorlopig alleen voor iPhone.
+Ja. Sight Check staat in Google Play (`cz.lapnito.sightcheck`) en in de App Store voor iPhone.
 
 ## Over de ontwikkelaar
 
@@ -175,6 +178,10 @@ Voorlopig alleen voor iPhone.
     "price": "0",
     "priceCurrency": "USD"
   },
+  "downloadUrl": [
+    "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+    "https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck"
+  ],
   "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
   "author": {
     "@type": "Organization",

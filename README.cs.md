@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="Sight Check: Eye Chart Game" width="120" height="120" />
 </p>
 
-<h1 align="center">Sight Check: Eye Chart Game — Přečtete i ta nejmenší písmenka? Zábavná hra s oční tabulí pro iPhone</h1>
+<h1 align="center">Sight Check: Eye Chart Game — Přečtete i ta nejmenší písmenka? Zábavná hra s oční tabulí pro iPhone i Android</h1>
 
 <p align="center">
   <b>Bezplatná oddechová hra inspirovaná klasickou oční tabulí od očního lékaře. Poodstupte od obrazovky, čtěte nahlas řádky stále menších písmen, ukládejte si skóre a vyzvěte rodinu i kamarády. Zdarma navždy, bez reklam, bez účtu, kompletně offline — výsledky zůstávají jen ve vašem telefonu.</b>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platforma-iOS-blue" />
+  <img src="https://img.shields.io/badge/Platforma-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Cena-Zdarma-success" />
   <img src="https://img.shields.io/badge/Soukrom%C3%AD-Data%20se%20nesb%C3%ADraj%C3%AD-brightgreen" />
   <img src="https://img.shields.io/badge/Kategorie-Hry%20%2F%20Logick%C3%A9-orange" />
@@ -56,13 +56,13 @@
 
 ## Co je Sight Check?
 
-**Sight Check: Eye Chart Game** je bezplatná oddechová hra pro iPhone inspirovaná klasickou oční tabulí, jaká visí v každé oční ordinaci a optice. Pravidla zná každý z čekárny: **poodstupte od obrazovky a čtěte písmena nahlas** — nejdřív velké, pohodlné řádky, pak písmenka tak drobná, že dokážou rozhádat celou rodinu.
+**Sight Check: Eye Chart Game** je bezplatná oddechová hra pro iPhone i Android inspirovaná klasickou oční tabulí, jaká visí v každé oční ordinaci a optice. Pravidla zná každý z čekárny: **poodstupte od obrazovky a čtěte písmena nahlas** — nejdřív velké, pohodlné řádky, pak písmenka tak drobná, že dokážou rozhádat celou rodinu.
 
 Každý někdy mžoural na tabuli za zády doktora a říkal si: „nedal bych ještě jeden řádek?" Sight Check z téhle chvíle dělá hru, kterou si zahrajete kdekoli: doma, na oslavě, v kanceláři, na gauči. Čtěte řádek po řádku, probojujte se ke stále menším písmenům, **ukládejte si výsledky a překonávejte vlastní rekord**. Pak podejte telefon kamarádovi, sourozenci nebo babičce a uvidíte, kdo přes celý obývák přečte nejmenší řádek — většinou pro zasmání, občas pro slávu na roky dopředu.
 
-Nepotřebujete žádné vybavení, jen svůj iPhone. Žádné zkušební verze, žádné mince, žádný „prémiový balíček písmen".
+Nepotřebujete žádné vybavení, jen svůj telefon. Žádné zkušební verze, žádné mince, žádný „prémiový balíček písmen".
 
-**Pouze pro iPhone. Zdarma navždy. Žádné reklamy, žádné nákupy v aplikaci, žádný účet ani registrace. Kompletně offline — vaše skóre nikdy neopustí telefon.**
+**Pro iPhone i Android. Zdarma navždy. Žádné reklamy, žádné nákupy v aplikaci, žádný účet ani registrace. Kompletně offline — vaše skóre nikdy neopustí telefon.**
 
 ## Kdy člověk tuhle appku vlastně otevře?
 
@@ -117,12 +117,15 @@ Nikam ven. Zůstávají jen ve vašem zařízení. Žádný cloud, žádný úč
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-St%C3%A1hnout-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Stáhnout v App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-Stáhnout-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 | Platforma | Dostupnost |
 |-----------|------------|
 | iOS (iPhone) | ✅ [App Store](https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052) |
-| Android | ❌ Není k dispozici |
+| Android | ✅ [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck) — `cz.lapnito.sightcheck` |
 
 **Podpora:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 
@@ -150,7 +153,7 @@ Ano — je to jednoduchá hra na čtení písmenek, bez reklam, bez chatu a bez 
 Tak, aby to byla zábava a fér souboj — jde o konzistentní osobní rekordy a legraci ve dvou, ne o klinicky kalibrované vzdálenosti. Vyberte si místo, držte se ho a braňte svůj rekord.
 
 **Bude Sight Check i pro Android?**
-Zatím je jen pro iPhone.
+Už je — Sight Check najdete na Google Play pod balíčkem `cz.lapnito.sightcheck` i v App Store pro iPhone.
 
 ## O vývojáři
 
@@ -175,6 +178,10 @@ Zatím je jen pro iPhone.
     "price": "0",
     "priceCurrency": "USD"
   },
+  "downloadUrl": [
+    "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+    "https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck"
+  ],
   "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
   "author": {
     "@type": "Organization",

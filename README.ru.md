@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="Sight Check: Eye Chart Game" width="120" height="120" />
 </p>
 
-<h1 align="center">Sight Check: Eye Chart Game — Прочитаете самые мелкие буквы? Весёлая игра с таблицей для проверки зрения на iPhone</h1>
+<h1 align="center">Sight Check: Eye Chart Game — Прочитаете самые мелкие буквы? Весёлая игра с таблицей для проверки зрения на iPhone и Android</h1>
 
 <p align="center">
   <b>Бесплатная казуальная игра по мотивам классической таблицы с буквами из кабинета окулиста. Отойдите от экрана, читайте вслух ряды всё более мелких букв, сохраняйте счёт и вызывайте на дуэль друзей и родных. Бесплатно навсегда, без рекламы, без аккаунта, полностью офлайн — результаты остаются на вашем устройстве.</b>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%D0%9F%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-iOS-blue" />
+  <img src="https://img.shields.io/badge/%D0%9F%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/%D0%A6%D0%B5%D0%BD%D0%B0-%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-success" />
   <img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B5%20%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%D1%82%D1%81%D1%8F-brightgreen" />
   <img src="https://img.shields.io/badge/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F-%D0%98%D0%B3%D1%80%D1%8B%20%2F%20%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B8-orange" />
@@ -56,13 +56,13 @@
 
 ## Что такое Sight Check?
 
-**Sight Check: Eye Chart Game** — бесплатная казуальная игра для iPhone, вдохновлённая классической таблицей с буквами, которая висит в каждом кабинете окулиста и салоне оптики. Правила все помнят ещё из поликлиники: **отойдите от экрана и читайте буквы вслух** — сначала крупные, удобные ряды, а дальше буквы становятся такими мелкими, что способны рассорить всю семью.
+**Sight Check: Eye Chart Game** — бесплатная казуальная игра для iPhone и Android, вдохновлённая классической таблицей с буквами, которая висит в каждом кабинете окулиста и салоне оптики. Правила все помнят ещё из поликлиники: **отойдите от экрана и читайте буквы вслух** — сначала крупные, удобные ряды, а дальше буквы становятся такими мелкими, что способны рассорить всю семью.
 
 Каждый когда-нибудь щурился на такую таблицу за спиной врача и думал: «а осилил бы я ещё один ряд?» Sight Check превращает этот момент в игру, в которую можно сыграть где угодно: дома, на вечеринке, в офисе, на диване. Читайте ряд за рядом, пробирайтесь ко всё более мелким буквам, **сохраняйте результаты и бейте личный рекорд**. Потом передайте телефон другу, брату, сестре или бабушке — и узнайте, кто с другого конца комнаты прочитает самый мелкий ряд. Обычно ради смеха, иногда — ради славы на годы вперёд.
 
 Никакого оборудования, кроме телефона, не нужно. Никаких пробных версий, монеток и «премиум-набора букв».
 
-**Только для iPhone. Бесплатно навсегда. Без рекламы, без встроенных покупок, без аккаунта и регистрации. Полностью офлайн — ваши результаты никогда не покидают телефон.**
+**Для iPhone и Android. Бесплатно навсегда. Без рекламы, без встроенных покупок, без аккаунта и регистрации. Полностью офлайн — ваши результаты никогда не покидают телефон.**
 
 ## Когда вообще открывают это приложение?
 
@@ -117,12 +117,15 @@
   <a href="https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052">
     <img src="https://img.shields.io/badge/App%20Store-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Скачать в App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck">
+    <img src="https://img.shields.io/badge/Google%20Play-Скачать-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 | Платформа | Доступность |
 |-----------|-------------|
 | iOS (iPhone) | ✅ [App Store](https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052) |
-| Android | ❌ Недоступно |
+| Android | ✅ [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck) — `cz.lapnito.sightcheck` |
 
 **Поддержка:** [github.com/Lapnito/sight-check/issues](https://github.com/Lapnito/sight-check/issues)
 
@@ -150,7 +153,7 @@
 На таком, чтобы было весело и честно — игра про стабильные личные рекорды и смех в соревновании, а не про клинически выверенные дистанции. Выберите место, придерживайтесь его и защищайте свой рекорд.
 
 **Есть ли Sight Check для Android?**
-Пока только для iPhone.
+Да. Sight Check есть в Google Play (`cz.lapnito.sightcheck`) и в App Store для iPhone.
 
 ## О разработчике
 
@@ -175,6 +178,10 @@
     "price": "0",
     "priceCurrency": "USD"
   },
+  "downloadUrl": [
+    "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
+    "https://play.google.com/store/apps/details?id=cz.lapnito.sightcheck"
+  ],
   "url": "https://apps.apple.com/us/app/sight-check-eye-chart-game/id6786195052",
   "author": {
     "@type": "Organization",
